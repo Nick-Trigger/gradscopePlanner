@@ -150,6 +150,13 @@ assignments = {
       "dueDate": "2024-03-04T23:59:00",
       "link": "https://www.gradescope.com/courses/711436/assignments/4176592/submissions/236593537",
       "submitted": true
+    },
+    {
+      "title": "Homework 7",
+      "course": "Math 353",
+      "dueDate": "2024-03-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/711436",
+      "submitted": false
     }
   ]
 };
