@@ -90,8 +90,8 @@ assignments = {
       "title": "Lab Report 2 - Muscle Contraction",
       "course": "BME 244L.001.Sp24",
       "dueDate": "2024-03-08T23:59:00",
-      "link": "https://www.gradescope.com/courses/713943",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/713943/assignments/4051291/submissions/237682715",
+      "submitted": true
     },
     {
       "title": "Stat Module 3 Quiz (1:25 Section)",
