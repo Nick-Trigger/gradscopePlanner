@@ -155,8 +155,8 @@ assignments = {
       "title": "Homework 7",
       "course": "Math 353",
       "dueDate": "2024-03-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/711436",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/711436/assignments/4207931/submissions/238299464",
+      "submitted": true
     }
   ]
 };
