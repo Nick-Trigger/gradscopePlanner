@@ -94,7 +94,7 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "Stat Module 3 Quiz (1:25 Section)",
+      "title": "Stat Module 3 Post-Quiz (1:25 Section)",
       "course": "BME 244L.001.Sp24",
       "dueDate": "2024-02-14T16:30:00",
       "link": "https://www.gradescope.com/courses/713943/assignments/4103632/submissions/230717897",
