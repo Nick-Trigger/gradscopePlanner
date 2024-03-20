@@ -101,6 +101,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Lab Report 3 - Submission",
+      "course": "BME 244L.001.Sp24",
+      "dueDate": "2024-03-29T23:59:00",
+      "link": "https://www.gradescope.com/courses/713943",
+      "submitted": false
+    },
+    {
       "title": "Stat Module 3 Post-Quiz (1:25 Section)",
       "course": "BME 244L.001.Sp24",
       "dueDate": "2024-02-14T16:30:00",
