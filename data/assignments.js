@@ -125,8 +125,8 @@ assignments = {
       "title": "HW5",
       "course": "BME 244L.001.Sp24",
       "dueDate": "2024-03-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/713943",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/713943/assignments/4235779/submissions/241263518",
+      "submitted": true
     }
   ],
   "Math 353": [
