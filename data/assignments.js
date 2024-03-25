@@ -101,9 +101,9 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "Lab Report 3 - Submission",
+      "title": "Lab Report 3 - Pulse Wave Velocity",
       "course": "BME 244L.001.Sp24",
-      "dueDate": "2024-03-29T23:59:00",
+      "dueDate": "2024-04-02T23:59:00",
       "link": "https://www.gradescope.com/courses/713943",
       "submitted": false
     },
