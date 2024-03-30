@@ -60,8 +60,8 @@ assignments = {
       "title": "Homework #8",
       "course": "BME 221L.001.Sp24",
       "dueDate": "2024-03-29T23:59:00",
-      "link": "https://www.gradescope.com/courses/693383",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/693383/assignments/4095498/submissions/242894062",
+      "submitted": true
     }
   ],
   "BME 244L.001.Sp24": [
