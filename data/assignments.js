@@ -111,8 +111,8 @@ assignments = {
       "title": "Lab Report 3 - Pulse Wave Velocity",
       "course": "BME 244L.001.Sp24",
       "dueDate": "2024-04-02T23:59:00",
-      "link": "https://www.gradescope.com/courses/713943",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/713943/assignments/4051293/submissions/243645047",
+      "submitted": true
     },
     {
       "title": "Stat Module 3 Post-Quiz (1:25 Section)",
