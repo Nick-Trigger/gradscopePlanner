@@ -145,7 +145,7 @@ assignments = {
     {
       "title": "HW6",
       "course": "BME 244L.001.Sp24",
-      "dueDate": "2024-04-17T23:59:00",
+      "dueDate": "2024-04-19T23:59:00",
       "link": "https://www.gradescope.com/courses/713943",
       "submitted": false
     }
