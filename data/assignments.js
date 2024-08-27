@@ -1,4 +1,5 @@
 assignments = {
+  "BME 260L.001.Fa24": [],
   "BME 271D.001.Fa24": [
     {
       "title": "Discussion Worksheet 2A",
