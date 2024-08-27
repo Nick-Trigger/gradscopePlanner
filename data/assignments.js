@@ -1,5 +1,13 @@
 assignments = {
-  "BME 260L.001.Fa24": [],
+  "BME 260L.001.Fa24": [
+    {
+      "title": "Homework #0",
+      "course": "BME 260L.001.Fa24",
+      "dueDate": "2024-08-29T08:30:00",
+      "link": "https://www.gradescope.com/courses/784178/assignments/4802519/submissions/new",
+      "submitted": false
+    }
+  ],
   "BME 271D.001.Fa24": [
     {
       "title": "Discussion Worksheet 2A",
