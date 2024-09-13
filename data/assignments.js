@@ -48,8 +48,8 @@ assignments = {
       "title": "Discussion Worksheet 2A",
       "course": "BME 271D.001.Fa24",
       "dueDate": "2024-09-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/834695",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/834695/assignments/4784899/submissions/267261156",
+      "submitted": true
     },
     {
       "title": "Discussion Worksheet 2B",
