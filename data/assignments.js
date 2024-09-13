@@ -31,7 +31,7 @@ assignments = {
     {
       "title": "Homework #4",
       "course": "BME 260L.001.Fa24",
-      "dueDate": "2024-09-18T12:00:00",
+      "dueDate": "2024-09-18T17:00:00",
       "link": "https://www.gradescope.com/courses/784178",
       "submitted": false
     }
