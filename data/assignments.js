@@ -39,8 +39,8 @@ assignments = {
       "title": "Mastery Problem #1",
       "course": "BME 260L.001.Fa24",
       "dueDate": "2024-09-19T10:15:00",
-      "link": "https://www.gradescope.com/courses/784178",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/784178/assignments/4982766/submissions/269074152",
+      "submitted": true
     },
     {
       "title": "Homework #5",
