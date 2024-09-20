@@ -46,8 +46,8 @@ assignments = {
       "title": "Homework #5",
       "course": "BME 260L.001.Fa24",
       "dueDate": "2024-09-20T17:00:00",
-      "link": "https://www.gradescope.com/courses/784178",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/784178/assignments/4986732/submissions/269676164",
+      "submitted": true
     }
   ],
   "BME 271D.001.Fa24": [
