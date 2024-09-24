@@ -170,5 +170,6 @@ assignments = {
       "link": "https://www.gradescope.com/courses/834695",
       "submitted": false
     }
-  ]
+  ],
+  "CHEM 201DL.002.F24": []
 };
