@@ -104,7 +104,7 @@ assignments = {
       "title": "Discussion 4B",
       "course": "BME 271D.001.Fa24",
       "dueDate": "2024-09-30T23:59:00",
-      "link": "https://www.gradescope.com/courses/834695/assignments/4784911/submissions/273012001",
+      "link": "https://www.gradescope.com/courses/834695/assignments/4784911/submissions/273020871",
       "submitted": true
     },
     {
