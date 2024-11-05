@@ -185,6 +185,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Discussion Worksheet 9",
+      "course": "BME 271D.001.Fa24",
+      "dueDate": "2024-11-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/834695",
+      "submitted": false
+    },
+    {
       "title": "Discussion Worksheet 10",
       "course": "BME 271D.001.Fa24",
       "dueDate": "2024-11-29T23:59:00",
@@ -202,8 +209,8 @@ assignments = {
       "title": "Final Project Proposal",
       "course": "BME 271D.001.Fa24",
       "dueDate": "2024-11-04T23:59:00",
-      "link": "https://www.gradescope.com/courses/834695",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/834695/assignments/5227594/submissions/285567957",
+      "submitted": true
     }
   ],
   "CHEM 201DL.002.F24": []
