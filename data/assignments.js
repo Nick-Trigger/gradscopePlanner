@@ -95,8 +95,8 @@ assignments = {
       "title": "Mastery Problem #3",
       "course": "BME 260L.001.Fa24",
       "dueDate": "2024-11-12T10:00:00",
-      "link": "https://www.gradescope.com/courses/784178",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/784178/assignments/5309920/submissions/288116211",
+      "submitted": true
     }
   ],
   "BME 271D.001.Fa24": [
@@ -225,6 +225,13 @@ assignments = {
       "dueDate": "2024-11-04T23:59:00",
       "link": "https://www.gradescope.com/courses/834695/assignments/5227594/submissions/285568460",
       "submitted": true
+    },
+    {
+      "title": "Final Project Progress Report",
+      "course": "BME 271D.001.Fa24",
+      "dueDate": "2024-11-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/834695",
+      "submitted": false
     }
   ],
   "CHEM 201DL.002.F24": []
