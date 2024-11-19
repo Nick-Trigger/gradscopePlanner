@@ -237,8 +237,8 @@ assignments = {
       "title": "Final Project Progress Report",
       "course": "BME 271D.001.Fa24",
       "dueDate": "2024-11-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/834695",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/834695/assignments/5309996/submissions/290540135",
+      "submitted": true
     }
   ],
   "CHEM 201DL.002.F24": []
