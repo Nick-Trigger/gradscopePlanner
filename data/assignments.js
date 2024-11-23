@@ -246,6 +246,13 @@ assignments = {
       "dueDate": "2024-11-18T23:59:00",
       "link": "https://www.gradescope.com/courses/834695/assignments/5309996/submissions/290540135",
       "submitted": true
+    },
+    {
+      "title": "Redo Exam 2",
+      "course": "BME 271D.001.Fa24",
+      "dueDate": "2024-11-26T23:59:00",
+      "link": "https://www.gradescope.com/courses/834695/assignments/5369397/submissions/new",
+      "submitted": false
     }
   ],
   "CHEM 201DL.002.F24": []
