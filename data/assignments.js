@@ -125,6 +125,13 @@ assignments = {
       "dueDate": "2024-12-06T17:00:00",
       "link": "https://www.gradescope.com/courses/784178/assignments/5399228/submissions/295293344",
       "submitted": true
+    },
+    {
+      "title": "Mastery Problem #5",
+      "course": "BME 260L.001.Fa24",
+      "dueDate": "2024-12-13T17:01:00",
+      "link": "https://www.gradescope.com/courses/784178",
+      "submitted": false
     }
   ],
   "BME 271D.001.Fa24": [
