@@ -4,8 +4,8 @@ assignments = {
       "title": "Software Installation & Tutorials",
       "course": "BME 254L.001.Sp25",
       "dueDate": "2025-01-14T11:45:00",
-      "link": "https://www.gradescope.com/courses/941961/assignments/5544754/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/941961/assignments/5544754/submissions/299714572",
+      "submitted": true
     }
   ],
   "BME 303L.001.Sp25": [
