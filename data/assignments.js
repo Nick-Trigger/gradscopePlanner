@@ -11,8 +11,8 @@ assignments = {
       "title": "Event-Driven State Machine (Wireless HRM)",
       "course": "BME 254L.001.Sp25",
       "dueDate": "2025-01-21T11:45:00",
-      "link": "https://www.gradescope.com/courses/941961",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/941961/assignments/5582693/submissions/300940177",
+      "submitted": true
     },
     {
       "title": "Git Fundamentals Lab",
