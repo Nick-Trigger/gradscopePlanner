@@ -50,6 +50,13 @@ assignments = {
       "dueDate": "2025-02-03T23:59:00",
       "link": "https://www.gradescope.com/courses/945035",
       "submitted": false
+    },
+    {
+      "title": "Laboratory 1",
+      "course": "BME 303L.001.Sp25",
+      "dueDate": "2025-01-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/945035",
+      "submitted": false
     }
   ],
   "BME 354L.001.Sp25": [
