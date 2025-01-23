@@ -25,8 +25,8 @@ assignments = {
       "title": "Git Fundamentals Lab",
       "course": "BME 254L.001.Sp25",
       "dueDate": "2025-01-28T11:45:00",
-      "link": "https://www.gradescope.com/courses/941961/assignments/5639216/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/941961/assignments/5639216/submissions/301371146",
+      "submitted": true
     }
   ],
   "BME 303L.001.Sp25": [
