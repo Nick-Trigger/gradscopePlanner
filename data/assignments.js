@@ -18,8 +18,8 @@ assignments = {
       "title": "Git Fundamentals Quiz",
       "course": "BME 254L.001.Sp25",
       "dueDate": "2025-01-24T17:00:00",
-      "link": "https://www.gradescope.com/courses/941961/assignments/5637237/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/941961/assignments/5637237/submissions/301357810",
+      "submitted": true
     },
     {
       "title": "Git Fundamentals Lab",
@@ -34,8 +34,8 @@ assignments = {
       "title": "Homework 0",
       "course": "BME 303L.001.Sp25",
       "dueDate": "2025-01-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/945035",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/945035/assignments/5569911/submissions/301355925",
+      "submitted": true
     },
     {
       "title": "Homework 1A",
@@ -55,8 +55,8 @@ assignments = {
       "title": "Laboratory 1",
       "course": "BME 303L.001.Sp25",
       "dueDate": "2025-01-24T23:59:00",
-      "link": "https://www.gradescope.com/courses/945035",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/945035/assignments/5587671/submissions/301333056",
+      "submitted": true
     }
   ],
   "BME 354L.001.Sp25": [
