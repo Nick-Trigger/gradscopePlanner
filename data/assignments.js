@@ -31,7 +31,7 @@ assignments = {
     {
       "title": "CAD: Hybrid III 6y/o",
       "course": "BME 254L.001.Sp25",
-      "dueDate": "2025-02-07T17:00:00",
+      "dueDate": "2025-02-11T11:45:00",
       "link": "https://www.gradescope.com/courses/941961",
       "submitted": false
     }
