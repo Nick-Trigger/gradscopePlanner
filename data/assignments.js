@@ -61,14 +61,14 @@ assignments = {
     {
       "title": "Homework 2A",
       "course": "BME 303L.001.Sp25",
-      "dueDate": "2025-02-12T23:59:00",
+      "dueDate": "2025-02-13T23:59:00",
       "link": "https://www.gradescope.com/courses/945035",
       "submitted": false
     },
     {
       "title": "Homework 2B",
       "course": "BME 303L.001.Sp25",
-      "dueDate": "2025-02-14T23:59:00",
+      "dueDate": "2025-02-17T23:59:00",
       "link": "https://www.gradescope.com/courses/945035",
       "submitted": false
     },
@@ -120,6 +120,13 @@ assignments = {
       "title": "II - Pre-Lab",
       "course": "BME 354L.001.Sp25",
       "dueDate": "2025-02-08T23:59:00",
+      "link": "https://www.gradescope.com/courses/935264",
+      "submitted": false
+    },
+    {
+      "title": "III - Pre-Lab",
+      "course": "BME 354L.001.Sp25",
+      "dueDate": "2025-02-15T23:59:00",
       "link": "https://www.gradescope.com/courses/935264",
       "submitted": false
     }
