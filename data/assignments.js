@@ -120,8 +120,8 @@ assignments = {
       "title": "II - Pre-Lab",
       "course": "BME 354L.001.Sp25",
       "dueDate": "2025-02-08T23:59:00",
-      "link": "https://www.gradescope.com/courses/935264",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/935264/assignments/5714193/submissions/306590305",
+      "submitted": true
     },
     {
       "title": "III - Pre-Lab",
