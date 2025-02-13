@@ -41,6 +41,20 @@ assignments = {
       "dueDate": "2025-02-18T11:45:00",
       "link": "https://www.gradescope.com/courses/941961",
       "submitted": false
+    },
+    {
+      "title": "EDA - Arduino Nano Every with LED and Button - Analog Input SPICE Model",
+      "course": "BME 254L.001.Sp25",
+      "dueDate": "2025-02-21T17:00:00",
+      "link": "https://www.gradescope.com/courses/941961",
+      "submitted": false
+    },
+    {
+      "title": "EDA - Arduino Nano Every with LED and Button - Analog Input SPICE Model - PCB Layout",
+      "course": "BME 254L.001.Sp25",
+      "dueDate": "2025-02-25T11:45:00",
+      "link": "https://www.gradescope.com/courses/941961",
+      "submitted": false
     }
   ],
   "BME 303L.001.Sp25": [
