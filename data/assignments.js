@@ -32,8 +32,8 @@ assignments = {
       "title": "CAD: Hybrid III 6y/o",
       "course": "BME 254L.001.Sp25",
       "dueDate": "2025-02-11T11:45:00",
-      "link": "https://www.gradescope.com/courses/941961",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/941961/assignments/5674613/submissions/308450363",
+      "submitted": true
     },
     {
       "title": "EDA - Arduino Nano Every with LED and Button - Schematic Modification",
