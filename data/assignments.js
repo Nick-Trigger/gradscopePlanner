@@ -183,8 +183,8 @@ assignments = {
       "title": "III - Lab Report",
       "course": "BME 354L.001.Sp25",
       "dueDate": "2025-02-24T13:25:00",
-      "link": "https://www.gradescope.com/courses/935264",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/935264/assignments/5791466/submissions/311325595",
+      "submitted": true
     }
   ]
 };
