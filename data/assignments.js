@@ -103,7 +103,7 @@ assignments = {
     {
       "title": "Homework 3B",
       "course": "BME 303L.001.Sp25",
-      "dueDate": "2025-02-26T23:59:00",
+      "dueDate": "2025-03-08T23:59:00",
       "link": "https://www.gradescope.com/courses/945035",
       "submitted": false
     },
