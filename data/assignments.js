@@ -55,6 +55,13 @@ assignments = {
       "dueDate": "2025-02-25T11:45:00",
       "link": "https://www.gradescope.com/courses/941961/assignments/5782998/submissions/311911708",
       "submitted": true
+    },
+    {
+      "title": "Firmware: Timing & GPIO",
+      "course": "BME 254L.001.Sp25",
+      "dueDate": "2025-03-07T17:00:00",
+      "link": "https://www.gradescope.com/courses/941961",
+      "submitted": false
     }
   ],
   "BME 303L.001.Sp25": [
