@@ -220,6 +220,20 @@ assignments = {
       "dueDate": "2025-03-15T23:59:00",
       "link": "https://www.gradescope.com/courses/935264",
       "submitted": false
+    },
+    {
+      "title": "V.1 - Pre-Lab",
+      "course": "BME 354L.001.Sp25",
+      "dueDate": "2025-03-22T23:59:00",
+      "link": "https://www.gradescope.com/courses/935264",
+      "submitted": false
+    },
+    {
+      "title": "IV - Lab Report",
+      "course": "BME 354L.001.Sp25",
+      "dueDate": "2025-03-24T13:25:00",
+      "link": "https://www.gradescope.com/courses/935264",
+      "submitted": false
     }
   ]
 };
