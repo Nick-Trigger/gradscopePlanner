@@ -62,6 +62,13 @@ assignments = {
       "dueDate": "2025-03-20T17:00:00",
       "link": "https://www.gradescope.com/courses/941961",
       "submitted": false
+    },
+    {
+      "title": "Firmware: ISR & ADC",
+      "course": "BME 254L.001.Sp25",
+      "dueDate": "2025-03-28T17:00:00",
+      "link": "https://www.gradescope.com/courses/941961",
+      "submitted": false
     }
   ],
   "BME 303L.001.Sp25": [
