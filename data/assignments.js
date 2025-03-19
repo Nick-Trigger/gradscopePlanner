@@ -152,7 +152,7 @@ assignments = {
     {
       "title": "Lab 3: Ultrasound",
       "course": "BME 303L.001.Sp25",
-      "dueDate": "2025-03-23T23:59:00",
+      "dueDate": "2025-03-26T23:59:00",
       "link": "https://www.gradescope.com/courses/945035",
       "submitted": false
     }
