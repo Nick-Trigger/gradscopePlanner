@@ -146,7 +146,7 @@ assignments = {
       "title": "Lab 2: SMIF Xray and CT Part 2",
       "course": "BME 303L.001.Sp25",
       "dueDate": "2025-03-19T23:59:00",
-      "link": "https://www.gradescope.com/courses/945035/assignments/5587691/submissions/318590473",
+      "link": "https://www.gradescope.com/courses/945035/assignments/5587691/submissions/318592097",
       "submitted": true
     },
     {
