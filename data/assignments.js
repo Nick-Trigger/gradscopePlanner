@@ -155,6 +155,13 @@ assignments = {
       "dueDate": "2025-03-26T23:59:00",
       "link": "https://www.gradescope.com/courses/945035",
       "submitted": false
+    },
+    {
+      "title": "Laboratory 3: Part 2",
+      "course": "BME 303L.001.Sp25",
+      "dueDate": "2025-04-05T23:59:00",
+      "link": "https://www.gradescope.com/courses/945035",
+      "submitted": false
     }
   ],
   "BME 354L.001.Sp25": [
