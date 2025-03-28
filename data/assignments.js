@@ -139,8 +139,8 @@ assignments = {
       "title": "Homework 4A",
       "course": "BME 303L.001.Sp25",
       "dueDate": "2025-03-27T23:59:00",
-      "link": "https://www.gradescope.com/courses/945035",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/945035/assignments/5587486/submissions/320516142",
+      "submitted": true
     },
     {
       "title": "Homework 3B",
