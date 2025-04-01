@@ -290,6 +290,13 @@ assignments = {
       "dueDate": "2025-03-31T13:25:00",
       "link": "https://www.gradescope.com/courses/935264/assignments/5996607/submissions/321211890",
       "submitted": true
+    },
+    {
+      "title": "V.2 Lab Report",
+      "course": "BME 354L.001.Sp25",
+      "dueDate": "2025-04-07T13:25:00",
+      "link": "https://www.gradescope.com/courses/935264",
+      "submitted": false
     }
   ]
 };
