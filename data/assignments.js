@@ -297,6 +297,13 @@ assignments = {
       "dueDate": "2025-04-07T13:25:00",
       "link": "https://www.gradescope.com/courses/935264",
       "submitted": false
+    },
+    {
+      "title": "Added Functionality Mini-Talk",
+      "course": "BME 354L.001.Sp25",
+      "dueDate": "2025-04-04T13:25:00",
+      "link": "https://www.gradescope.com/courses/935264",
+      "submitted": false
     }
   ]
 };
