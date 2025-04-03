@@ -71,20 +71,6 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "Lightbox: Schematic Review",
-      "course": "BME 254L.001.Sp25",
-      "dueDate": "2025-04-04T17:00:00",
-      "link": "https://www.gradescope.com/courses/941961",
-      "submitted": false
-    },
-    {
-      "title": "Lightbox: PCB Review & Submission to Mill",
-      "course": "BME 254L.001.Sp25",
-      "dueDate": "2025-04-07T09:00:00",
-      "link": "https://www.gradescope.com/courses/941961",
-      "submitted": false
-    },
-    {
       "title": "Lightbox: Technical Report",
       "course": "BME 254L.001.Sp25",
       "dueDate": "2025-04-29T17:00:00",
