@@ -60,8 +60,8 @@ assignments = {
       "title": "Firmware: Timing & GPIO",
       "course": "BME 254L.001.Sp25",
       "dueDate": "2025-03-20T17:00:00",
-      "link": "https://www.gradescope.com/courses/941961",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/941961/assignments/5861684/submissions/322404879",
+      "submitted": true
     },
     {
       "title": "Firmware: ISR & ADC",
