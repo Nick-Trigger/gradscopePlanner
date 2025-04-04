@@ -129,6 +129,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Homework 5A",
+      "course": "BME 303L.001.Sp25",
+      "dueDate": "2025-04-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/945035",
+      "submitted": false
+    },
+    {
       "title": "Homework 3B",
       "course": "BME 303L.001.Sp25",
       "dueDate": "2025-03-21T23:59:00",
@@ -141,6 +148,13 @@ assignments = {
       "dueDate": "2025-03-31T23:59:00",
       "link": "https://www.gradescope.com/courses/945035/assignments/5587615/submissions/321407621",
       "submitted": true
+    },
+    {
+      "title": "Homework 5B",
+      "course": "BME 303L.001.Sp25",
+      "dueDate": "2025-04-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/945035",
+      "submitted": false
     },
     {
       "title": "Laboratory 1",
