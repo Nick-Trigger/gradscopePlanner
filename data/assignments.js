@@ -306,7 +306,7 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "Added Functionality Mini-Talk",
+      "title": "Added Functionality Mini Talk",
       "course": "BME 354L.001.Sp25",
       "dueDate": "2025-04-04T13:25:00",
       "link": "https://www.gradescope.com/courses/935264/assignments/6022419/submissions/322479135",
