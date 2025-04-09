@@ -185,9 +185,23 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Lab 4: MRI",
+      "course": "BME 303L.001.Sp25",
+      "dueDate": "2025-04-16T23:59:00",
+      "link": "https://www.gradescope.com/courses/945035",
+      "submitted": false
+    },
+    {
       "title": "Final Project Proposal",
       "course": "BME 303L.001.Sp25",
       "dueDate": "2025-04-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/945035",
+      "submitted": false
+    },
+    {
+      "title": "Lab 4: MRI Part 1",
+      "course": "BME 303L.001.Sp25",
+      "dueDate": "2025-04-16T23:59:00",
       "link": "https://www.gradescope.com/courses/945035",
       "submitted": false
     }
