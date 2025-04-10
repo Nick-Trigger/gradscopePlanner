@@ -181,8 +181,8 @@ assignments = {
       "title": "Laboratory 3: Part 2",
       "course": "BME 303L.001.Sp25",
       "dueDate": "2025-04-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/945035",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/945035/assignments/5587822/submissions/324004094",
+      "submitted": true
     },
     {
       "title": "Lab 4: MRI",
