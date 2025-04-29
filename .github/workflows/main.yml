@@ -51,7 +51,11 @@ jobs:
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add . || true
         git commit -m 'Updated assignments' || true
-        git push https://x-access-token:${TOKEN}@github.com/Nick-Trigger/gradscopePlanner.git main
-        git push -f https://x-access-token:${TOKEN}@github.com/Nick-Trigger/gradscopePlanner.git main:github-pages
+        git remote -v
+        git remote set-url origin https://x-access-token:${TOKEN}@github.com/Nick-Trigger/gradscopePlanner.git
+        git remote -v
+        git push origin main
+        git push -f origin main:github-pages
+
 
 
